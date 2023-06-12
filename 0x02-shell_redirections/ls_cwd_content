@@ -1,0 +1,16 @@
+total 56
+drwxrwxrwx 2 cb cb 4096 Jun 12 21:31 .
+drwxr-xr-x 6 cb cb 4096 Jun 12 20:10 ..
+-rwxr--r-- 1 cb cb   32 Jun 12 20:42 0-hello_world
+-rwxrwxrwx 1 cb cb   28 Jun 12 20:42 1-confused_smiley
+-rwxr--r-- 1 cb cb   28 Jun 12 20:43 2-hellofile
+-rwxrwxrwx 1 cb cb   39 Jun 12 20:43 3-twofiles
+-rwxr--r-- 1 cb cb   29 Jun 12 20:43 4-lastlines
+-rwxr--r-- 1 cb cb   29 Jun 12 20:43 5-firstlines
+-rwxr--r-- 1 cb cb   41 Jun 12 20:54 6-third_line
+-rwxr--r-- 1 cb cb   87 Jun 12 21:27 7-file
+-rw-r--r-- 1 cb cb   90 Jun 12 21:26 7-files
+-rwxr--r-- 1 cb cb   43 Jun 12 21:30 8-cwd_state
+-rw-r--r-- 1 cb cb   26 Jun 12 20:11 README.md
+-rw-r--r-- 1 cb cb   20 Jun 12 20:55 iacta
+-rw-r--r-- 1 cb cb    0 Jun 12 21:36 ls_cwd_content
