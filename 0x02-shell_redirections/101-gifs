@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -lRa *.gif | rev | cut -f 1 -d ' ' | rev   
