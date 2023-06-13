@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lRa *.gif | rev | cut -f 1 -d ' ' | rev   
+find . -type f -name "*s" | rev | cut -f 1 -d '/' | rev 
