@@ -1,0 +1,24 @@
+total 88
+-rwxr-xr-x 1 cb cb 16 Jun 14 00:22 0-current_working_directory
+-rwxr-xr-x 1 cb cb 15 Jun 14 00:22 1-listit
+-rwxr-xr-x 1 cb cb 17 Jun 14 00:22 10-back
+-rwxr-xr-x 1 cb cb 35 Jun 14 00:22 100-lets_move
+-rwxr-xr-x 1 cb cb 18 Jun 14 00:22 101-clean_emacs
+-rwxr-xr-x 1 cb cb 40 Jun 14 00:22 102-tree
+-rwxr-xr-x 1 cb cb 20 Jun 14 00:22 103-commas
+-rwxr-xr-x 1 cb cb 30 Jun 14 00:22 11-lists
+-rwxr-xr-x 1 cb cb 31 Jun 14 00:22 12-file_type
+-rwxr-xr-x 1 cb cb 33 Jun 14 00:22 13-symbolic_link
+-rwxr-xr-x 1 cb cb 25 Jun 14 00:22 14-copy_html
+-rwxr-xr-x 1 cb cb 21 Jun 14 00:22 2-bring_me_home
+-rwxr-xr-x 1 cb cb 18 Jun 14 00:22 3-listfiles
+-rwxr-xr-x 1 cb cb 19 Jun 14 00:22 4-listmorefiles
+-rwxr-xr-x 1 cb cb 20 Jun 14 00:22 5-listfilesdigitonly
+-rwxr-xr-x 1 cb cb 42 Jun 14 00:22 6-firstdirectory
+-rwxr-xr-x 1 cb cb 50 Jun 14 00:22 7-movethatfile
+-rwxr-xr-x 1 cb cb 45 Jun 14 00:22 8-firstdelete
+-rwxr-xr-x 1 cb cb 42 Jun 14 00:22 9-firstdirdeletion
+-rw-r--r-- 1 cb cb 15 Jun 14 00:22 README.md
+-rw-r--r-- 1 cb cb  0 Jun 14 19:49 file
+-rw-r--r-- 1 cb cb  8 Jun 14 19:45 files
+-rw-r--r-- 1 cb cb 43 Jun 14 19:30 school.mgc
